@@ -1,1 +1,2 @@
-# hardgraft
+# HardGraft
+Notre première intégration
